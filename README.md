@@ -1,0 +1,2 @@
+# SampleWork
+Binary Genetic algorithm
